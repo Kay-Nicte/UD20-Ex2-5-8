@@ -81,27 +81,4 @@ public class Frame extends JFrame  {
 		contentPane.add(btnNewButton);
 
 	}
-/*
-	@Override
-	public void mouseClicked(MouseEvent e) {
-		
-		textArea.setText("El ratón se ha clicado.");
-
-	}
-
-	@Override
-	public void mousePressed(MouseEvent e) {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Override
-	public void mouseReleased(MouseEvent e) {
-		// TODO Auto-generated method stub
-
-	}
-
-	
-
-	}*/
 }

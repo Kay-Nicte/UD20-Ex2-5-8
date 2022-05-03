@@ -1,9 +1,9 @@
-package com.UD20.ACT2.VentanaGrafica;
+package com.UD20.VentanaGrafica;
 import javax.swing.*;
 
-import com.UD20.VentanaGrafica.Frame;
+import com.UD20.VentanaGrafica.JFrame;
 
-public class VentanaGrafica extends Frame {
+public class VentanaGrafica extends JFrame {
 	
 	/*
 	 * Panel de la aplicación
@@ -60,8 +60,5 @@ public class VentanaGrafica extends Frame {
 		contentPane.add(btn2);
 	}
 
-	private void setDefaultCloseOperation(String exitOnClose) {
-		// TODO Auto-generated method stub
-		
-	}
+
 }
